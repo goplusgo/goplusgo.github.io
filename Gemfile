@@ -8,6 +8,7 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "~> 4.0.0"
+gem 's3_website'
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem 'jekyll-theme-prologue', '~> 0.3.3'
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
